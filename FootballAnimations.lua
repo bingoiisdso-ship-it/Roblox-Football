@@ -7,7 +7,7 @@
 return {
     Idle = "rbxassetid://99309536275036",       -- Priority: Idle
     Walk = "rbxassetid://88374342912148",       -- Priority: Movement
-    Run = "rbxassetid://0",        -- Priority: Movement
+    Run = "rbxassetid://132680298634420",        -- Priority: Movement
     Sprint = "rbxassetid://0",     -- Priority: Movement
 
     Pass = "rbxassetid://0",       -- Priority: Action
