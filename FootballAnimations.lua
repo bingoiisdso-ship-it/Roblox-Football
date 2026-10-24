@@ -11,7 +11,7 @@ return {
     Sprint = "rbxassetid://132680298634420", -- Priority: Movement; play faster with track:AdjustSpeed(1.4)
 
     Pass = "rbxassetid://0",       -- Priority: Action
-    Kick = "rbxassetid://0",       -- Priority: Action
+    Kick = "rbxassetid://83111300998024",       -- Priority: Action
     PowerShot = "rbxassetid://0",  -- Priority: Action
     Tackle = "rbxassetid://0",     -- Priority: Action
     Celebrate = "rbxassetid://0",  -- Priority: Action
