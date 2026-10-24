@@ -12,7 +12,7 @@ return {
 
     Pass = "rbxassetid://105103639620074",       -- Priority: Action
     Kick = "rbxassetid://83111300998024",       -- Priority: Action
-    PowerShot = "rbxassetid://0",  -- Priority: Action
+    PowerShot = "rbxassetid://81960231483566",  -- Priority: Action
     Tackle = "rbxassetid://0",     -- Priority: Action
     Celebrate = "rbxassetid://0",  -- Priority: Action
 }
