@@ -5,7 +5,7 @@
 -- Animations must be accessible to the Roblox experience's owner/group.
 
 return {
-    Idle = "rbxassetid://0",       -- Priority: Idle
+    Idle = "rbxassetid://99309536275036",       -- Priority: Idle
     Walk = "rbxassetid://0",       -- Priority: Movement
     Run = "rbxassetid://0",        -- Priority: Movement
     Sprint = "rbxassetid://0",     -- Priority: Movement
